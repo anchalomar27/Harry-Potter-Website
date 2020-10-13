@@ -1,0 +1,318 @@
+body{
+    background: url(https://www.harrypotteronbroadway.com/static2/harry-potter-background) no-repeat center center fixed;
+    background-size: cover;
+    margin: 0px;
+    
+}
+
+.info{
+    width: 50%;
+    height: 400px;
+    
+}
+
+.info h1{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    font-family: jokerman;
+}
+
+.info p{
+    color: white;
+    text-shadow: 3px 2px brown;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+
+.part-1{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 550px;
+}
+
+.part-1 .img1{
+    width: 50%;
+    height: 400px;
+    background: url(https://techcrunch.com/wp-content/uploads/2020/04/HP.png) no-repeat;
+    background-position: center;
+    background-size:contain;
+    padding: 30px;
+    margin: 20px;
+    border-radius:100% 0% 100% 0% / 9% 83% 17% 91%;
+    transition: transform 3s;
+    
+}
+.part-1 .img1:hover{
+    transform: scale(1.2);
+}
+
+
+.part-2{
+    display: flex;
+    flex-direction:row-reverse;
+    width: 100%;
+    height: 550px;
+    margin-bottom:20px
+}
+
+.part-2 .img2{
+    width: 50%;
+    height: 400px;
+    background:url(https://is4-ssl.mzstatic.com/image/thumb/Video114/v4/0c/b7/2b/0cb72bfe-1a69-4233-22a9-3dd0d00653e5/pr_source.lsr/1200x630.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 30px;
+    margin: 20px;
+    border-radius:100% 0% 100% 0% / 9% 83% 17% 91%;
+    transition: transform 3s;
+}
+
+.part-2 .img2:hover{
+    transform: scale(1.2);
+}
+
+.part-3{
+    display: flex;
+    flex-direction:row;
+    width: 100%;
+    height: 550px;
+    margin-bottom:20px
+}
+
+.part-3 .img3{
+    width: 50%;
+    height: 400px;
+    background:url(https://i2.wp.com/movie-screencaps.com/wp-content/uploads/2020/04/4k-hp3-movie-screencaps.com--scaled.jpg?fit=1024%2C427&ssl=1) no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 30px;
+    margin: 20px;
+    border-radius:100% 0% 100% 0% / 9% 83% 17% 91%;
+    transition: transform 3s;
+}
+
+.part-3 .img3:hover{
+    transform: scale(1.2);
+}
+
+
+.part-4{
+    display: flex;
+    flex-direction:row-reverse;
+    width: 100%;
+    height: 550px;
+    margin-bottom:20px
+}
+
+.part-4 .img4{
+    width: 50%;
+    height: 400px;
+    background:url(https://i.pinimg.com/originals/b6/da/9d/b6da9d7db1673aeac7e6997f98542219.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 30px;
+    margin: 20px;
+    border-radius:100% 0% 100% 0% / 9% 83% 17% 91%;
+    transition: transform 3s;
+}
+
+.part-4 .img4:hover{
+    transform: scale(1.2);
+}
+
+.part-5{
+    display: flex;
+    flex-direction:row;
+    width: 100%;
+    height: 550px;
+    margin-bottom:20px
+}
+
+.part-5 .img5{
+    width: 50%;
+    height: 400px;
+    background:url(https://edtimes.in/wp-content/uploads/2016/07/harry_potter_and_the_order_of_the_phoenix_2007_6435_wallpaper.jpg) no-repeat;
+    background-position: center;
+    background-size: contain;
+    padding: 30px;
+    margin: 20px;
+    border-radius:100% 0% 100% 0% / 9% 83% 17% 91%;
+    transition: transform 3s;
+}
+
+.part-5 .img5:hover{
+    transform: scale(1.2);
+}
+
+.part-6{
+    display: flex;
+    flex-direction:row-reverse;
+    width: 100%;
+    height: 550px;
+    margin-bottom:20px
+}
+
+.part-6 .img6{
+    width: 50%;
+    height: 400px;
+    background:url(https://grand-amstar.southerntickets.net/CDN/media/entity/get/FilmBackdrop/HO00002059) no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 30px;
+    margin: 20px;
+    border-radius:100% 0% 100% 0% / 9% 83% 17% 91%;
+    transition: transform 3s;
+}
+
+.part-6 .img6:hover{
+    transform: scale(1.2);
+}
+
+
+.part-7a{
+    display: flex;
+    flex-direction:row;
+    width: 100%;
+    height: 550px;
+    margin-bottom:20px
+}
+
+.part-7a .img7a{
+    width: 50%;
+    height: 400px;
+    background:url(https://www.toledoblade.com/image/2010/11/18/1140x_a10-7_cTC/Harry-Potter-And-The-Deathly-Hallows-Part-1.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 30px;
+    margin: 20px;
+    border-radius:100% 0% 100% 0% / 9% 83% 17% 91%;
+    transition: transform 3s;
+}
+
+.part-7a .img7a:hover{
+    transform: scale(1.2);
+}
+
+.part-7b{
+    display: flex;
+    flex-direction:row-reverse;
+    width: 100%;
+    height: 550px;
+    margin-bottom:20px
+}
+
+.part-7b .img7b:hover{
+    transform: scale(1.2);
+}
+
+.part-7b .img7b{
+    width: 50%;
+    height: 400px;
+    background:url(https://cdn.mos.cms.futurecdn.net/a9472f70aac14cf37ea0fe87a080fc9a-1200-80.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 30px;
+    margin: 20px;
+    border-radius:100% 0% 100% 0% / 9% 83% 17% 91%;
+    transition: transform 3s;
+}
+
+.bg-1{
+    width: 100%;
+    height: 550px;
+    background: url(https://laurasteatimereads.files.wordpress.com/2015/09/feature-3.jpg) no-repeat;
+    background-attachment: fixed;
+    margin: 0px;
+    background-size: cover;
+}
+
+.bg-2{
+    width: 100%;
+    height: 550px;
+    background: url(https://images6.alphacoders.com/340/340602.jpg) no-repeat;
+    background-attachment: fixed;
+    margin: 0px;
+    background-size: cover;
+}
+
+.bg-3{
+    width: 100%;
+    height: 550px;
+    background: url(https://storage.googleapis.com/dystribute-media/rb2pSVzlkO4r3kDuHtBj.png) no-repeat;
+    background-attachment: fixed;
+    margin: 0px;
+    background-size: cover;
+}
+
+.bg-4{
+    width: 100%;
+    height: 550px;
+    background: url(https://images.ctfassets.net/usf1vwtuqyxm/3RXuviv1UQwCyG0yU0QaqW/3e23a7afb225a28182d5bb57d7f56b74/MinervaMcGonagall_WB_F3_McGonagallWithHandOnHarrysShoulder_Still_0806115_Land.jpg?fm=jpg) no-repeat;
+    background-attachment: fixed;
+    margin: 0px;
+    background-size: cover;
+}
+
+.bg-5{
+    width: 100%;
+    height: 550px;
+    background: url(https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/wb-883316198940-Full-Image_GalleryBackground-en-US-1484348613843._SX1080_.jpg) no-repeat;
+    background-attachment: fixed;
+    margin: 0px;
+    background-size: cover;
+}
+
+.bg-6{
+    width: 100%;
+    height: 550px;
+    background: url(https://assets.mugglenet.com/wp-content/uploads/2020/04/potions-class-backdrop-1500.jpg) no-repeat;
+    background-attachment: fixed;
+    margin: 0px;
+    ;
+}
+
+.bg-7a{
+    width: 100%;
+    height: 550px;
+    background: url(https://images.unsplash.com/photo-1594396555192-a411562137eb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80) no-repeat;
+    background-attachment: fixed;
+    margin: 0px;
+    background-size: cover;
+}
+
+.bg-7b{
+    width: 100%;
+    height: 550px;
+    background: url(https://images.unsplash.com/photo-1570610159825-ec5d3823660c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=891&q=80) no-repeat;
+    background-attachment: fixed;
+    margin: 0px;
+    background-size: cover;
+}
+
+.footer{
+    width: 100%;
+    height: 200px;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer p{
+    margin: 0;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+
+.footer img{
+    width: 100px;
+    height: 100px;
+    
+    
+}
